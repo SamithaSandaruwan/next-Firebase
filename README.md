@@ -5,3 +5,6 @@ This project is a simple React application that demonstrates how to submit data 
 ## Next.js
 ## tailwind CSS
 ## Firebase
+
+# Screnshots
+<img src="img/1.png" width='6000px'>
