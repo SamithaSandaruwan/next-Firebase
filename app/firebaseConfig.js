@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore} from 'firebase/firestore/lite';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCgzRW7vIZimDyukkWz0OTjn_DGWNo8N7s",
+  apiKey: "",
   authDomain: "data-adding-57090.firebaseapp.com",
   projectId: "data-adding-57090",
   storageBucket: "data-adding-57090.appspot.com",
